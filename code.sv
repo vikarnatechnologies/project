@@ -1,12 +1,16 @@
 //hello world 
+
 manoj
+
 
 
 	module hello_world;
 
   initial begin
     $display("Hello, World!");
-    $finish;
+    
   end
 
 endmodule
+
+added line at 12:30
