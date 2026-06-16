@@ -15,4 +15,13 @@ added by padma
 
 endmodule
 
+module test;
+intial
+begin
+	$disply("this is manojkumar");
+end
+endmodule
+
+
+
 added line at 12:30
