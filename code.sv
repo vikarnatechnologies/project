@@ -19,6 +19,7 @@ module test;
 intial
 begin
 	$disply("this is manojkumar");
+         $monitor("value=%0d",value);
 end
 endmodule
 
